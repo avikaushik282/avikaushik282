@@ -6,10 +6,8 @@
 <h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
 
 <p align='center'>
-  <a href="https://twitter.com/deepak_deedar"><img src="https://img.icons8.com/color/48/000000/twitter.png" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/deepak-deedar-singla-0067811a0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/deepakdeedar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/deepakdeedar"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" height="30"/></a>
+  <a href="https://www.linkedin.com/in/avi-kaushik-6a735b1b7"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/avikaushik282"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" height="30"/></a>
 </p>
 
 ---
