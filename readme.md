@@ -55,6 +55,6 @@
 
 ---
 
-[![Deepak Deedar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=deepakdeedar&theme=react-dark&hide_border=true)](https://github.com/deepakdeedar/)
+[![Deepak Deedar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=avikaushik282&theme=react-dark&hide_border=true)](https://github.com/avikaushik282/)
 
-![Deepak Deedar's github stats](https://github-readme-stats.vercel.app/api?username=deepakdeedar&theme=tokyonight&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deepakdeedar&theme=tokyonight)](https://git.io/streak-stats)
+![avikaushik282's github stats](https://github-readme-stats.vercel.app/api?username=avikaushik282&theme=tokyonight&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avikaushik282&theme=tokyonight)](https://git.io/streak-stats)
