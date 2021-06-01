@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning Django and Flask
 - 👯 I’m looking to collaborate on various Projects
 - 💬 Ask me about Python 
-- 📫 How to reach me: ddeedar.cse18@chitkarauniversity.edu.in
+- 📫 How to reach me: akaushik.cse18@chitkarauniversity.edu.in
 
 
 
