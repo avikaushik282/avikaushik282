@@ -35,7 +35,6 @@
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/dart.svg">
 </p>
 
 #### Libraries/Frameworks
@@ -46,9 +45,6 @@
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg">&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">&nbsp;&nbsp;&nbsp;&nbsp;
-<img height='30' src='https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/710/500/original/rasa_logo_horizontal_purple.png?1561644488'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img height='30' src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
 </p>
 
 ---
