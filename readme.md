@@ -16,6 +16,7 @@
 
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
 - 🔭 I have good knowledge about Machine Learning, Deep Learning
+- 🌲 I also have good knowledge and have made many projects using flask.
 - 🌱 I’m currently learning Php
 - 👯 I’m looking to collaborate on various Projects
 - 💬 Ask me about Python 
