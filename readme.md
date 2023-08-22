@@ -17,7 +17,7 @@
 - 🎓 Completed B.Tech in Computer Science and Engineering
 - 🔭 I have good knowledge about Machine Learning, Deep Learning
 - 🌲 I also have good knowledge and have made many projects using flask.
-- 🌱 I’m currently learning Php
+- 🌱 I’m have also worked on CakePHP
 - 👯 I’m looking to collaborate on various Projects
 - 💬 Ask me about Python 
 - 📫 How to reach me: akaushik.cse18@chitkarauniversity.edu.in
@@ -50,6 +50,6 @@
 
 ---
 
-[![Deepak Deedar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=avikaushik282&theme=react-dark&hide_border=true)](https://github.com/avikaushik282/)
+[![Avi Kaushik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=avikaushik282&theme=react-dark&hide_border=true)](https://github.com/avikaushik282/)
 
 ![avikaushik282's github stats](https://github-readme-stats.vercel.app/api?username=avikaushik282&theme=tokyonight&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avikaushik282&theme=tokyonight)](https://git.io/streak-stats)
