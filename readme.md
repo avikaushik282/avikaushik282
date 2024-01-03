@@ -20,7 +20,7 @@
 - 🌱 I’m have also worked on CakePHP
 - 👯 I’m looking to collaborate on various Projects
 - 💬 Ask me about Python 
-- 📫 How to reach me: akaushik.cse18@chitkarauniversity.edu.in
+- 📫 How to reach me: avikaushik2000@gmail.com
 
 
 
