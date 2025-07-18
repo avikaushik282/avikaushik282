@@ -14,7 +14,7 @@
 
 <img align="right" width='350' height='400' alt="GIF" src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/computer-programmer-organism-converting-caffeine-into-code-kanig-designs.jpg" />
 
-- 🎓 Completed B.Tech in Computer Science and Engineering
+- 🎓 Completed M.Sc in Data Science and Analytics
 - 🔭 I have good knowledge about Machine Learning, Deep Learning
 - 🌲 I also have good knowledge and have made many projects using flask.
 - 🌱 I’m have also worked on CakePHP
