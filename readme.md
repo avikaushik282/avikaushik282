@@ -7,7 +7,6 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/avi-kaushik-6a735b1b7"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/avikaushik282"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" height="30"/></a>
 </p>
 
 ---
