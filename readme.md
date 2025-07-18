@@ -45,7 +45,7 @@
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="30" src="https://banner2.cleanpng.com/20180704/sv/aaxptkhb8.webp">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
