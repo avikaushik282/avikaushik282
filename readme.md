@@ -17,7 +17,7 @@
 - 🔭 I have good knowledge about Machine Learning, Deep Learning
 - 🌲 I also have good knowledge and have made many projects using flask.
 - 🌱 I’m have also worked on CakePHP
-- 👯 I’m looking to collaborate on various Projects
+- 👯 I’m open to collaborate on Projects
 - 💬 Ask me about Python 
 - 📫 How to reach me: avikaushik2000@gmail.com
 
