@@ -49,6 +49,5 @@
 
 ---
 
-[![Avi Kaushik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=avikaushik282&theme=react-dark&hide_border=true)](https://github.com/avikaushik282/)
 
 ![avikaushik282's github stats](https://github-readme-stats.vercel.app/api?username=avikaushik282&theme=tokyonight&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avikaushik282&theme=tokyonight)](https://git.io/streak-stats)
